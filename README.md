@@ -78,22 +78,22 @@ todo-web-client/
 
 ## Usage
 
-	•	Add a Task: Use the input field to enter a new task and click “Add Task”.
-	•	Edit a Task: Click on a task to edit its details.
-	•	Delete a Task: Click the delete icon next to a task to remove it.
-	•	Mark as Complete: Click the checkbox next to a task to mark it as complete.
+- Add a Task: Use the input field to enter a new task and click “Add Task”.
+- Edit a Task: Click on a task to edit its details.
+- Delete a Task: Click the delete icon next to a task to remove it.
+- Mark as Complete: Click the checkbox next to a task to mark it as complete.
 
 
 The backend API provides a default route /tasks to manage tasks with the following HTTP methods.
 (Note that it uses memory as the store)
 
-	•	POST /tasks: Create a new task.
-	•	DELETE /tasks/:id: Delete a task by its ID.
-	•	PUT /tasks/:id: Update a task by its ID.
-	•	PATCH /tasks/:id:/completed Mark a task as completed by its ID.
-	•	GET /tasks: Retrieve all tasks.
+- POST /tasks: Create a new task.
+- DELETE /tasks/:id: Delete a task by its ID.
+- PUT /tasks/:id: Update a task by its ID.
+- PATCH /tasks/:id:/completed Mark a task as completed by its ID.
+- GET /tasks: Retrieve all tasks.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 

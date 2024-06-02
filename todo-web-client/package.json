@@ -1,7 +1,8 @@
 {
   "name": "todo-web-client",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "A minimal Todo app demo and sandbox. Built with Rust, Native Web Components, and Zustand for state management, this app is bundled using Vite with TypeScript support.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -33,5 +34,18 @@
     "navigo": "^8.11.1",
     "open-props": "^1.7.4",
     "zustand": "^4.5.2"
-  }
+  },
+  "keywords": [
+    "todo",
+    "task",
+    "task manager",
+    "rust",
+    "native web components",
+    "zustand",
+    "vite",
+    "typescript",
+    "shoelace"
+  ],
+  "author": "kulas kulapoo",
+  "license": "MIT"
 }

@@ -4,10 +4,10 @@ A minimal Todo app demo and sandbox. Built with Rust, Native Web Components, and
 
 ## Features
 
-- Add, Edit, and Delete Tasks: Easily manage your tasks with intuitive controls.
-- Mark as Complete: Mark tasks as complete to keep track of your progress.
-- Persistent State: Using Zustand for state management ensures your tasks are saved.
-- Modern Web Components: Leverage the power of Native Web Components for a seamless experience.
+- Add, Edit, and Delete Tasks.
+- Mark as Complete.
+- State: Using Zustand for state management.
+- Modern Web Components
 - Rust Backend: A robust backend powered by Rust using Tokio and Warp for optimal performance.
 - Shoelace UI Library: Utilize Shoelace for modern and customizable UI components.
 
